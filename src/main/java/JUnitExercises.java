@@ -12,6 +12,7 @@ public class JUnitExercises {
 		System.out.println("After class method");
 	}
 	
+	//Comment Test
 	@Before
 	public  void before() {
 		System.out.println("Before method");
